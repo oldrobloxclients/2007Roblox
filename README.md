@@ -14,11 +14,6 @@ You have been warned, be smart and have fun :)!
 For this to execute correctly, you need to make sure your system has the `Microsoft Visual C++ 2005 Service Pack` installed.<br>
 This was standard in most old systems, but newer systems are no longer bundled with it. You can find it here:<br>
 https://www.microsoft.com/en-us/download/details.aspx?id=26347
-
-# Download Link #
-* https://github.com/CloneTrooper1019/Roblox-2007-Client/archive/main.zip
-
-
 # Helpful Commands #
 
 * Open uncopylocked places from the website:  
